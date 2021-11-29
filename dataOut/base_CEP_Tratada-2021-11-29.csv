@@ -1,0 +1,19 @@
+	idCliente	logradouro	numero	complemento	cep	cidade	estado	newCEP	newLogradouro	newComplemento	newBairro	newCidade	newEstado	newStatus	newMessage
+0	1.0	rua dos alecrins	123.0		nan	Valinhos	SP	13273400	Rua dos Alecrins		Parque Cecap	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+1	2.0	Av. dos Esportes	123.0		13270210.0	Valinhos	SP	13270210	Avenida dos Esportes		Vila Bissoto	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+2	3.0	rua borin	123.0		13272100.0	Valinhos	SP	13272100	Rua Ferdinando Borin		Jardim Alto da Boa Vista	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+3	4.0	alfazemas	123.0		13273410.0	Valinhos	SP	13273410	Rua das Alfazemas		Parque Cecap	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+4	6.0	alecrins	123.0		13273400.0	Valinhos	SP	13273400	Rua dos Alecrins		Parque Cecap	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+5	7.0	teste	123.0		11111111.0	Valinhos	SP								ERRO: CEP nao localizado, verifique o CPF da base.
+6	8.0	sete de setembro			11111111.0	Valinhos	SP	13270100	Rua Sete de Setembro		Centro	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+7	9.0	teste	123.0		11111111.0	Valinhos	SP								ERRO: CEP nao localizado, verifique o CPF da base.
+8	10.0	teste	123.0		11111111.0	Valinhos	SP								ERRO: CEP nao localizado, verifique o CPF da base.
+9	11.0	nove	123.0		11111111.0	Valinhos	SP							ATENCAO	ATENCAO: Foram retornados varios enderecos.
+10	12.0	Avenida dos Esportes	123.0		nan	Valinhos	SP	13270210	Avenida dos Esportes		Vila Bissoto	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+11	13.0	R. Dom Nery	123.0		nan	Valinhos	SP							ATENCAO	ATENCAO: Foram retornados varios enderecos.
+12	15.0	Rua João Bissto Filho	123.0		nan	Valinhos	SP								ERRO: CEP nao localizado, verifique o CPF da base.
+13	16.0	Outra rua	123.0		13273250.0	Valinhos	SP	13273250	Rodovia dos Agricultores		Jardim Portugal	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+14	17.0	Outra rua	123.0		13273310.0	Valinhos	SP	13273310	Rodovia Dom Pedro I	do km 114,001 ao km 120,000	Santana dos Cuiabanos	Valinhos	SP	SUCESSO:	Sucesso: Dados localizados com sucesso.
+15					nan									ATENCAO	ATENCAO: Foram retornados varios enderecos.
+16					nan									ATENCAO	ATENCAO: Foram retornados varios enderecos.
+17					nan									ATENCAO	ATENCAO: Foram retornados varios enderecos.
